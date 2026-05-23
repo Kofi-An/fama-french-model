@@ -12,5 +12,5 @@ Key: *** p<0.01  ** p<0.05  * p<0.10  ns = not significant
 
 **Critical insight:** Only TSLA shows statistically significant
 alpha. All other stocks' returns are substantially explained
-by systematic factor exposures — not stock-picking skill.
+by systematic factor exposures, not stock-picking skill.
 SPY validates the model with beta 0.984 ≈ 1.0 and R² 0.995.
