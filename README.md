@@ -23,7 +23,7 @@
 
 ---
 
-## Static factor loadings — NB2
+## Static factor loadings
 
 | Ticker | Alpha (ann) | Sig | Mkt Beta | HML | RMW | R² |
 |--------|------------|-----|---------|-----|-----|----|
@@ -38,7 +38,7 @@ Only TSLA shows statistically significant alpha (p=0.004).
 
 ---
 
-## Rolling regression findings — NB3
+## Rolling regression findings 
 
 Window: 756 trading days (3 years) | Step: 5 days
 
@@ -50,7 +50,7 @@ Window: 756 trading days (3 years) | Step: 5 days
 | JNJ | 9.30% | 56.1% | 0.0% |
 | SPY | 0.42% | 27.5% | 0.0% |
 
-**Critical findings from rolling analysis:**
+## Critical findings from rolling analysis:
 - TSLA alpha peaked at 116.68% but collapsed to 12.3%
   in 2024, narrative premium eroding in real time
 - AAPL HML loading drifted from +0.13 to -0.77,
@@ -61,7 +61,7 @@ Window: 756 trading days (3 years) | Step: 5 days
 
 ---
 
-## Alpha significance — NB4
+## Alpha significance
 
 | Ticker | Alpha | HAC sig | IR | Appraisal | Evidence | Verdict |
 |--------|-------|---------|-----|-----------|---------|---------|
@@ -73,7 +73,7 @@ Window: 756 trading days (3 years) | Step: 5 days
 
 ---
 
-## Portfolio construction — NB5
+## Portfolio construction
 
 | Portfolio | Ann Return | Sharpe | Sortino | Max DD | CVaR 95% |
 |-----------|-----------|--------|---------|--------|----------|
